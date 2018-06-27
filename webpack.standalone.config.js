@@ -24,7 +24,7 @@ module.exports = [
     },
 
     externals: {
-      react: 'React'
+      react: 'react'
     }
   },
   {
@@ -49,7 +49,7 @@ module.exports = [
     },
 
     externals: {
-      react: 'React'
+      react: 'react'
     },
 
     plugins: [
